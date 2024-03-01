@@ -1,6 +1,5 @@
 # Build a Chatbot to Analyze PDF Documents Using [![LLM](https://img.shields.io/badge/LLM-00599C?style=for-the-badge&logo=python&logoColor=white)](https://openai.com)
 
-#### Author : @Kayara00
 #### Students assignment from IBM Advance AI @ Infinite Learning Course completion of Build a Chatbot to Analyze PDF Documents Using LLM from CognitiveClass.ai
 
 ## Students Info 
